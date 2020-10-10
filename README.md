@@ -1,6 +1,9 @@
-# Change branch Batch
+# Change Branch Batch
 
 Change the Git branch that deploy to Azure App Service.
+This call the REST API on the Kudu service.
+
+[Documentation](https://github.com/projectkudu/kudu/wiki/Deployment-branch)
 
 ## Installation
 
